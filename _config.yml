@@ -1,0 +1,6 @@
+theme: minima
+title: GitHub Pages
+author: GitHub
+description: > # this means to ignore newlines until "baseurl:"
+  GitHub Pages uses the Jekyll static site generator to create fast, efficient pages that can be hosted easily on GitHub. This repository is the GitHub Pages gem theme.
+baseurl: "/github-pages"
